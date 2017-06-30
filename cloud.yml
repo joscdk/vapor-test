@@ -1,1 +1,4 @@
-type:   'vapor'
+type: 'vapor'
+
+foo: 
+       bar: ''
